@@ -1,0 +1,25 @@
+.card {
+    margin: auto;
+    margin-top: 20px;
+    box-shadow: 3px 3px 3px 3px gray;
+}
+
+.card-title {
+    color:white:
+}
+
+#Manager {
+    background-color: lightblue;
+}
+
+#Engineer {
+background-color: teal;
+}
+
+#intern {
+    background-color: yellow;
+}
+
+#Employee {
+    background-color: pink;
+}
